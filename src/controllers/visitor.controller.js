@@ -1,3 +1,4 @@
+// reception-backend/src/controllers/visitor.controller.js
 const pool = require('../config/db');
 
 exports.checkInVisitor = async (req, res) => {
